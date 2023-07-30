@@ -1,0 +1,43 @@
+{
+  "files": {
+    "main.css": "/home/static/css/main.95f29c2a.css",
+    "main.js": "/home/static/js/main.daec528a.js",
+    "static/media/slide4.png": "/home/static/media/slide4.e3ee8a9fd65130e21ada.png",
+    "static/media/slide2.png": "/home/static/media/slide2.9610c0383385f4f0c529.png",
+    "static/media/abbbg.png": "/home/static/media/abbbg.07b68e10c4fae5056e25.png",
+    "static/media/brain.png": "/home/static/media/brain.6123829075305be80ecc.png",
+    "static/media/satti.png": "/home/static/media/satti.1626a72bc478d95e8930.png",
+    "static/media/alok1.png": "/home/static/media/alok1.ca542928a5be5db84e34.png",
+    "static/media/slide7.png": "/home/static/media/slide7.1b08d8d7fc53cf83a411.png",
+    "static/media/pk.png": "/home/static/media/pk.14949eec9edff5639f3c.png",
+    "static/media/eds.png": "/home/static/media/eds.791fbc9815f64e964ca9.png",
+    "static/media/mp.png": "/home/static/media/mp.7a33d92a5107579ff899.png",
+    "static/media/divya1.png": "/home/static/media/divya1.099921d726ce75472df1.png",
+    "static/media/asima.png": "/home/static/media/asima.d838ecd31ad646e15202.png",
+    "static/media/slide5.png": "/home/static/media/slide5.821fd0d3654f793abb75.png",
+    "static/media/laxmisri.png": "/home/static/media/laxmisri.3b73c9f4ec19a3c25a4a.png",
+    "static/media/slide3.png": "/home/static/media/slide3.f7dc8d30b6a0fd45dc82.png",
+    "static/media/pani.png": "/home/static/media/pani.13a577edcc780a62cc18.png",
+    "static/media/slide61.png": "/home/static/media/slide61.f1e18942dee5ffb9f5f0.png",
+    "static/media/alivelu.png": "/home/static/media/alivelu.ff348107962411d1c13d.png",
+    "static/media/victor.png": "/home/static/media/victor.e4669cec029d99ef2557.png",
+    "static/media/brain3.png": "/home/static/media/brain3.8f2da4bad350d0167d80.png",
+    "static/media/mani.png": "/home/static/media/mani.5c4c95c77ae062daf761.png",
+    "static/media/vector.png": "/home/static/media/vector.3a919acef6a287bbb5e8.png",
+    "static/media/maitri.png": "/home/static/media/maitri.10ee03b9a8354156930d.png",
+    "static/media/chandu.png": "/home/static/media/chandu.4562a915450772514d52.png",
+    "static/media/slide1.png": "/home/static/media/slide1.00e8653c2264d5a713fc.png",
+    "static/media/siddpat.png": "/home/static/media/siddpat.332b646524201aa985d0.png",
+    "static/media/chakra.png": "/home/static/media/chakra.8d36fb3ed5254c4bb5e9.png",
+    "static/media/sidd.png": "/home/static/media/sidd.ba84225fbbb9270b40c4.png",
+    "static/media/kvenu.png": "/home/static/media/kvenu.718d918e405434212e02.png",
+    "static/media/deo.png": "/home/static/media/deo.c3bb7d6c79533c6c3042.png",
+    "index.html": "/home/index.html",
+    "main.95f29c2a.css.map": "/home/static/css/main.95f29c2a.css.map",
+    "main.daec528a.js.map": "/home/static/js/main.daec528a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.95f29c2a.css",
+    "static/js/main.daec528a.js"
+  ]
+}
